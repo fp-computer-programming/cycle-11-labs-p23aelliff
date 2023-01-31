@@ -4,7 +4,7 @@
 grades = {"Mid Year Proposal": 100/100, "Mid Year Project code": 91/100, "Mid Year Project Reflection": 93/100, "Mid Year Project Presention": 93/100}
 
 #statement for grades recieved
-for (k,v) in grades.get("Mid Year Proposal"):
+for (k,v) in grades:
     print(v)
 
 
