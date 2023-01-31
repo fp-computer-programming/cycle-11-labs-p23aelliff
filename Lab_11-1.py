@@ -8,3 +8,4 @@ print(row)
 
 #update to dictionary list
 del row[15]
+print(row)
